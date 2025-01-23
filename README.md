@@ -26,4 +26,4 @@ Simply visit the webpage and start checking off items as you complete them. The 
 
 ## View Live
 
-Visit [https://YOUR_USERNAME.github.io/YOUR_REPO_NAME](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME) to see the checklist in action! 
+Visit [https://gargi01.github.io/cursor-checklist](https://gargi01.github.io/cursor-checklist) to see the checklist in action! 
